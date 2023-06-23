@@ -22,3 +22,5 @@ https://www.aitimes.com/news/articleView.html?idxno=151525
 
 출처 : AI타임스(https://www.aitimes.com)
 
+
+comment: 최근 트렌드인 대화형 인공지능 서비스가 많이 늘어난 것을 알 수 있었고, 짧은 시간임에도 불구하고 성능향상 속도가 빠르다는것을 알 수 있었다. 
